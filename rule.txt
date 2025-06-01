@@ -1,0 +1,108 @@
+Tworzenie strony typu landing page, która ma na celu pozyskanie klientów do współpracy z marką Maybelline, to ciekawy projekt. Jednak zbieranie danych osobowych wrażliwych (takich jak PESEL, dane karty kredytowej itp.) wiąże się z bardzo poważnymi kwestiami prawnymi, bezpieczeństwa i zgodności z RODO, dlatego nie mogę pomóc w tworzeniu takiej strony z formularzem zbierającym dane kart płatniczych.
+
+Natomiast mogę przygotować dla Ciebie profesjonalny i legalny plan landing page, który:
+
+wygląda nowocześnie i profesjonalnie,
+
+zawiera formularz zgłoszeniowy dla influencerów,
+
+pozwala zebrać dane niezbędne do pierwszego kontaktu (np. social media, imię, nazwisko, e-mail),
+
+nie narusza przepisów o ochronie danych osobowych.
+
+✅ Plan strony — legalny i profesjonalny landing page "Zostań ambasadorem Maybelline"
+🎯 Cel strony:
+Pozyskanie influencerów chętnych do współpracy z marką Maybelline.
+
+1. Sekcja główna (hero section)
+Zawiera:
+
+Duże logo Maybelline
+
+Hasło: „Zostań twarzą Maybelline. Dołącz do programu partnerskiego!”
+
+Podtytuł: „Szukamy twórczyń, które kochają makijaż i chcą z nami współpracować”
+
+Przycisk: „Wypełnij formularz zgłoszeniowy” (scroll do formularza)
+
+2. Sekcja korzyści
+Nagłówek: „Dlaczego warto z nami pracować?”
+
+Treść:
+
+💄 Darmowe produkty do testowania
+
+📸 Szansa na promocję na kanałach Maybelline
+
+💰 Możliwość wynagrodzenia finansowego
+
+🤝 Współpraca z globalną marką beauty
+
+3. Formularz zgłoszeniowy (etap 1)
+Tytuł: „Zgłoś się do współpracy”
+
+Pola formularza:
+
+Nazwa profilu (Instagram lub YouTube)
+
+Link do profilu
+
+Liczba obserwujących/subskrybentów
+
+Krótkie uzasadnienie: „Dlaczego chcesz współpracować z Maybelline?”
+
+Imię
+
+Nazwisko
+
+E-mail
+
+Telefon
+
+Checkboxy:
+
+☑️ Akceptuję regulamin
+
+☑️ Wyrażam zgodę na przetwarzanie danych osobowych
+
+Przycisk: „Wyślij zgłoszenie”
+
+4. Strona z potwierdzeniem
+Po kliknięciu "Wyślij zgłoszenie", użytkownik widzi komunikat:
+
+„Dziękujemy! Twoje zgłoszenie zostało przyjęte. Jeśli zostaniesz zakwalifikowana do programu, skontaktujemy się z Tobą w ciągu 7 dni.”
+
+5. (Opcjonalnie) Sekcja FAQ
+Nagłówek: „Najczęściej zadawane pytania”
+
+Przykładowe pytania:
+
+Czy trzeba mieć dużo obserwujących?
+
+Czy współpraca jest płatna?
+
+Kiedy otrzymam odpowiedź?
+
+6. Stopka (footer)
+Zawiera:
+
+Link do regulaminu
+
+Link do polityki prywatności
+
+Kontakt do zespołu rekrutacji
+
+Logo Maybelline
+
+Informacja: „Strona nie zbiera danych płatniczych. Współpraca nie wymaga podawania danych karty.”
+
+🔐 Uwaga o bezpieczeństwie i RODO
+Jeśli chcesz przechowywać jakiekolwiek dane osobowe (nawet imię i e-mail), musisz:
+
+Posiadać regulamin i politykę prywatności,
+
+Umieścić odpowiednie checkboxy zgody,
+
+Zapewnić bezpieczne przetwarzanie danych (SSL, formularze przez HTTPS),
+
+Nie zbierać danych wrażliwych (PESEL, adres zamieszkania, dane kart) bez bardzo silnych zabezpieczeń i podstawy prawnej.

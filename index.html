@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zostań ambasadorem Maybelline</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="hero-section">
+        <img src="maybelline_logo.png" alt="Maybelline Logo" class="logo">
+        <h1>Zostań twarzą Maybelline. Dołącz do programu partnerskiego!</h1>
+        <h2>Szukamy twórczyń, które kochają makijaż i chcą z nami współpracować</h2>
+        <a href="#application-form" class="button">Wypełnij formularz zgłoszeniowy</a>
+    </header>
+
+    <section class="benefits-section">
+        <h2>Dlaczego warto z nami pracować?</h2>
+        <div class="benefits-grid">
+            <div class="benefit-item">
+                <span class="icon">💄</span>
+                <p>Darmowe produkty do testowania</p>
+            </div>
+            <div class="benefit-item">
+                <span class="icon">📸</span>
+                <p>Szansa na promocję na kanałach Maybelline</p>
+            </div>
+            <div class="benefit-item">
+                <span class="icon">💰</span>
+                <p>Możliwość wynagrodzenia finansowego</p>
+            </div>
+            <div class="benefit-item">
+                <span class="icon">🤝</span>
+                <p>Współpraca z globalną marką beauty</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="application-form" class="form-section">
+        <h2>Zgłoś się do współpracy</h2>
+        <form action="/submit_form" method="POST">
+            <div class="form-group">
+                <label for="profile-name">Nazwa profilu (Instagram lub YouTube)</label>
+                <input type="text" id="profile-name" name="profile_name" required>
+            </div>
+            <div class="form-group">
+                <label for="profile-link">Link do profilu</label>
+                <input type="url" id="profile-link" name="profile_link" required>
+            </div>
+            <div class="form-group">
+                <label for="followers">Liczba obserwujących/subskrybentów</label>
+                <input type="number" id="followers" name="followers" required>
+            </div>
+            <div class="form-group">
+                <label for="justification">Krótkie uzasadnienie: „Dlaczego chcesz współpracować z Maybelline?”</label>
+                <textarea id="justification" name="justification" rows="5" required></textarea>
+            </div>
+            <div class="form-group">
+                <label for="first-name">Imię</label>
+                <input type="text" id="first-name" name="first_name" required>
+            </div>
+            <div class="form-group">
+                <label for="last-name">Nazwisko</label>
+                <input type="text" id="last-name" name="last_name" required>
+            </div>
+            <div class="form-group">
+                <label for="email">E-mail</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label for="phone">Telefon</label>
+                <input type="tel" id="phone" name="phone">
+            </div>
+            <div class="checkbox-group">
+                <input type="checkbox" id="terms" name="terms" required>
+                <label for="terms">Akceptuję regulamin</label>
+            </div>
+            <div class="checkbox-group">
+                <input type="checkbox" id="privacy" name="privacy" required>
+                <label for="privacy">Wyrażam zgodę na przetwarzanie danych osobowych</label>
+            </div>
+            <button type="submit" class="button">Wyślij zgłoszenie</button>
+        </form>
+        {% if show_confirmation %}
+        <p id="confirmation-message" style="display: block;">Dziękujemy! Twoje zgłoszenie zostało przyjęte. Jeśli zostaniesz zakwalifikowana do programu, skontaktujemy się z Tobą w ciągu 7 dni.</p>
+        {% else %}
+        <p id="confirmation-message" style="display: none;">Dziękujemy! Twoje zgłoszenie zostało przyjęte. Jeśli zostaniesz zakwalifikowana do programu, skontaktujemy się z Tobą w ciągu 7 dni.</p>
+        {% endif %}
+    </section>
+
+    <section class="faq-section">
+        <h2>Najczęściej zadawane pytania</h2>
+        <div class="faq-item">
+            <h3>Czy trzeba mieć dużo obserwujących?</h3>
+            <p>Nie ma ścisłych wymagań co do liczby obserwujących, ale liczy się zaangażowanie i jakość Twoich treści.</p>
+        </div>
+        <div class="faq-item">
+            <h3>Czy współpraca jest płatna?</h3>
+            <p>Możliwe jest wynagrodzenie finansowe, zależne od warunków współpracy i zakresu działań.</p>
+        </div>
+        <div class="faq-item">
+            <h3>Kiedy otrzymam odpowiedź?</h3>
+            <p>Skontaktujemy się z Tobą w ciągu 7 dni od daty wysłania zgłoszenia, jeśli Twoja kandydatura zostanie zakwalifikowana do programu.</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-links">
+            <a href="#">Regulamin</a>
+            <a href="#">Polityka Prywatności</a>
+            <a href="#">Kontakt do zespołu rekrutacji</a>
+        </div>
+        <img src="maybelline_logo_white.png" alt="Maybelline Logo" class="footer-logo">
+        <p>Strona nie zbiera danych płatniczych. Współpraca nie wymaga podawania danych karty.</p>
+    </footer>
+</body>
+</html> 
